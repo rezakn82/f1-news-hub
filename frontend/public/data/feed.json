@@ -1,6 +1,6 @@
 {
-  "last_global_update": "2026-11-10T18:50:40.909646+00:00",
-  "total_articles": 305,
+  "last_global_update": "2026-11-10T21:02:28.879514+00:00",
+  "total_articles": 308,
   "sources": [
     {
       "source_id": "formulatecnica",
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 12
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 35
     },
@@ -42,10 +42,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
-      "articles_count": 13
+      "articles_count": 15
     },
     {
       "source_id": "motorsport_it",
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 34
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 35
     },
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
-      "articles_count": 31
+      "articles_count": 32
     },
     {
       "source_id": "autoracer",
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 14
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 18
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 32
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 8
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 19
     },
@@ -207,8 +207,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 23
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 19
     },
@@ -237,13 +237,30 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T18:50:40.909646+00:00",
-      "last_success": "2026-11-10T18:50:40.909646+00:00",
+      "last_checked": "2026-11-10T21:02:28.879514+00:00",
+      "last_success": "2026-11-10T21:02:28.879514+00:00",
       "last_error": null,
       "articles_count": 12
     }
   ],
   "articles": [
+    {
+      "id": "effc4b7475d0048ed229",
+      "original_title": "Liam Lawson told to leave Red Bull as Guenther Steiner backs world title potential",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/liam-lawson-red-bull-exit-guenther-steiner-world-champion",
+      "normalized_url": "https://planetf1.com/news/liam-lawson-red-bull-exit-guenther-steiner-world-champion",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-10T19:30:17+00:00",
+      "collection_date": "2026-11-10T21:02:26.002973+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/10/26111746/liam-lawson-hand-on-head-1-120x120.jpg",
+      "description": "Steiner sees a world champion in Liam Lawson – but believes there's one big obstacle standing in his way.",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "52cbb4ca7ab89e98"
+    },
     {
       "id": "1eb9f1f7fe4da5af4c35",
       "original_title": "F1 ACADEMY announces 2027 calendar",
@@ -1603,6 +1620,40 @@
       "category": "Driver News",
       "persian_summary": null,
       "cluster_id": "140a11080561c578"
+    },
+    {
+      "id": "c2fba3ee8d9829cf1041",
+      "original_title": "Varela resta al Monza? Baldissoni: \"Obiettivo è tenerlo tutta la stagione\"",
+      "translated_title": "",
+      "original_url": "https://sport.sky.it/calciomercato/2026/11/10/varela-monza-baldissoni-intervista-calciomercato",
+      "normalized_url": "https://sport.sky.it/calciomercato/2026/11/10/varela-monza-baldissoni-intervista-calciomercato",
+      "source_id": "skysport_f1_it",
+      "source_name": "Sky Sport F1 IT",
+      "publication_date": "2026-11-10T00:00:00+00:00",
+      "collection_date": "2026-11-10T21:02:26.027335+00:00",
+      "thumbnail_url": null,
+      "description": "",
+      "original_language": "it",
+      "category": "Latest News",
+      "persian_summary": null,
+      "cluster_id": "2513189d501b310d"
+    },
+    {
+      "id": "17e82234dd33b686a303",
+      "original_title": "Hamilton in Egitto: visita alle strutture che preparano gli aiuti umanitari per Gaza. FOTO",
+      "translated_title": "",
+      "original_url": "https://sport.sky.it/formula-1/2026/11/10/hamilton-egitto-visita-gaza-foto",
+      "normalized_url": "https://sport.sky.it/formula-1/2026/11/10/hamilton-egitto-visita-gaza-foto",
+      "source_id": "skysport_f1_it",
+      "source_name": "Sky Sport F1 IT",
+      "publication_date": "2026-11-10T00:00:00+00:00",
+      "collection_date": "2026-11-10T21:02:26.027335+00:00",
+      "thumbnail_url": null,
+      "description": "",
+      "original_language": "it",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "8754627d2cd11562"
     },
     {
       "id": "50acae8da439fbb7e4a4",
