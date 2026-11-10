@@ -4,9 +4,8 @@ on:
   push:
     branches: ["main"]
   schedule:
-    # Runs automatically every 20 minutes
     - cron: "*/20 * * * *"
-  workflow_dispatch: # Allows manual 1-click refresh from the GitHub Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,8 +22,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
@@ -38,11 +35,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scraper/requirements.txt
 
-      - name: Run F1 News Collector (Updates frontend/public/data/feed.json)
+      - name: Run F1 News Collector
         run: |
           python scraper/collect_static.py
 
-      - name: Commit and Push updated feed.json to Repository
+      - name: Commit and Push updated feed.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -59,8 +56,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
-          cache-dependency-path: "frontend/package-lock.json"
 
       - name: Install Frontend Dependencies & Build Static App
         working-directory: ./frontend
