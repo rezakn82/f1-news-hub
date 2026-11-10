@@ -1,0 +1,81 @@
+name: Update F1 News & Deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    # Runs automatically every 20 minutes
+    - cron: "*/20 * * * *"
+  workflow_dispatch: # Allows manual 1-click refresh from the GitHub Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages-and-scraper"
+  cancel-in-progress: false
+
+jobs:
+  scrape-build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: "scraper/requirements.txt"
+
+      - name: Install Python Scraper Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
+
+      - name: Run F1 News Collector (Updates frontend/public/data/feed.json)
+        run: |
+          python scraper/collect_static.py
+
+      - name: Commit and Push updated feed.json to Repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/feed.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(feed): auto-update F1 news feed [skip ci]"
+            git pull --rebase origin main || true
+            git push origin HEAD:main
+          else
+            echo "No new articles to commit."
+          fi
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: "frontend/package-lock.json"
+
+      - name: Install Frontend Dependencies & Build Static App
+        working-directory: ./frontend
+        run: |
+          npm install
+          npm run build
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Static Build Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./frontend/dist"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

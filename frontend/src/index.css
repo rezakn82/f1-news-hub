@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[dir="rtl"] {
+  font-family: "Vazirmatn", Tahoma, sans-serif;
+}
+
+[dir="ltr"] {
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+.latin-text {
+  font-family: "Inter", system-ui, sans-serif;
+  direction: ltr;
+  text-align: left;
+}
