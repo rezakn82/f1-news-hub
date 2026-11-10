@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-10T14:32:54.618860+00:00",
+  "last_global_update": "2026-11-10T14:34:50.103597+00:00",
   "total_articles": 278,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 12
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 28
     },
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 10
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 32
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 33
     },
@@ -87,8 +87,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 26
     },
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 13
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 31
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 8
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 18
     },
@@ -207,8 +207,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 22
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 18
     },
@@ -237,8 +237,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T14:32:54.618860+00:00",
-      "last_success": "2026-11-10T14:32:54.618860+00:00",
+      "last_checked": "2026-11-10T14:34:50.103597+00:00",
+      "last_success": "2026-11-10T14:34:50.103597+00:00",
       "last_error": null,
       "articles_count": 12
     }
