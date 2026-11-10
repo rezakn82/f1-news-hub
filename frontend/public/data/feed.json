@@ -1,6 +1,6 @@
 {
-  "last_global_update": "2026-11-10T07:27:43.877835+00:00",
-  "total_articles": 235,
+  "last_global_update": "2026-11-10T08:39:54.287718+00:00",
+  "total_articles": 238,
   "sources": [
     {
       "source_id": "formulatecnica",
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 10
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 20
     },
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 7
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -72,10 +72,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
-      "articles_count": 30
+      "articles_count": 31
     },
     {
       "source_id": "planetf1",
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
-      "articles_count": 19
+      "articles_count": 20
     },
     {
       "source_id": "autoracer",
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 9
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,10 +132,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
-      "articles_count": 10
+      "articles_count": 11
     },
     {
       "source_id": "autosport",
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 8
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -207,8 +207,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 20
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -237,13 +237,64 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:27:43.877835+00:00",
-      "last_success": "2026-11-10T07:27:43.877835+00:00",
+      "last_checked": "2026-11-10T08:39:54.287718+00:00",
+      "last_success": "2026-11-10T08:39:54.287718+00:00",
       "last_error": null,
       "articles_count": 12
     }
   ],
   "articles": [
+    {
+      "id": "b99c306792ba13347171",
+      "original_title": "5 betting lessons learnt after Norris wins in Brazil",
+      "translated_title": "",
+      "original_url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-lando-norris-wins-the-sao-paulo-grand-prix-in-brazil.5yqAHXsmHN6KYWGDkNYvUt",
+      "normalized_url": "https://formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-lando-norris-wins-the-sao-paulo-grand-prix-in-brazil.5yqAHXsmHN6KYWGDkNYvUt",
+      "source_id": "formula1_official",
+      "source_name": "Formula1.com",
+      "publication_date": "2026-11-10T08:39:52.514349+00:00",
+      "collection_date": "2026-11-10T08:39:52.514273+00:00",
+      "thumbnail_url": null,
+      "description": "The battle for race wins remains wide open heading into the season-closing triple header.",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "ee2afbbb2a690388"
+    },
+    {
+      "id": "47c62c62b5141d9b679c",
+      "original_title": "Lando Norris airs McLaren warning despite commanding Brazil win",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/lando-norris-airs-mclaren-warning-despite-brazil-win",
+      "normalized_url": "https://planetf1.com/news/lando-norris-airs-mclaren-warning-despite-brazil-win",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-10T08:37:21+00:00",
+      "collection_date": "2026-11-10T08:39:52.340610+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/09170737/Lando-Norris-F1-Brazilian-GP-120x120.jpg",
+      "description": "McLaren appeared to take a sizeable step forward with upgrades in Brazil, but Lando Norris is not getting ahead of himself just yet.",
+      "original_language": "en",
+      "category": "Technical News",
+      "persian_summary": null,
+      "cluster_id": "1fa8bbbc2ad2f3d4"
+    },
+    {
+      "id": "943e3aeb0d38a9f546b4",
+      "original_title": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-10T08:28:03+00:00",
+      "collection_date": "2026-11-10T08:39:52.027331+00:00",
+      "thumbnail_url": "https://cdn-6.motorsport.com/images/amp/YE9wPXPY/s6/liam-lawson-racing-bulls-laure.jpg",
+      "description": "Red Bull team principal Laurent Mekies says it’s up to Racing Bulls whether to retain Liam Lawson or promote Nikola Tsolov to a race seat in the 2027 Formula 1 season. Rookie Arvid Lindblad is set to get a second campaign in the world championship next year, but the identity of his team-mate has been uncertain. Formula 2 title contender Tsolov was the favourite to get the seat, but his form ... Keep reading",
+      "original_language": "en",
+      "category": "Transfers & Rumors",
+      "persian_summary": null,
+      "cluster_id": "71dc0c6c01e65621"
+    },
     {
       "id": "81f6f23186753568962a",
       "original_title": "Ferrari reveals reason for drastic pace fluctuations during Brazilian GP",
