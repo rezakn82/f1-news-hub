@@ -1,6 +1,6 @@
 {
-  "last_global_update": "2026-11-10T07:24:17.594102+00:00",
-  "total_articles": 234,
+  "last_global_update": "2026-11-10T07:27:43.877835+00:00",
+  "total_articles": 235,
   "sources": [
     {
       "source_id": "formulatecnica",
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 10
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 20
     },
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 7
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
-      "articles_count": 18
+      "articles_count": 19
     },
     {
       "source_id": "autoracer",
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 9
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 10
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 8
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -207,8 +207,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 20
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -237,13 +237,30 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T07:24:17.594102+00:00",
-      "last_success": "2026-11-10T07:24:17.594102+00:00",
+      "last_checked": "2026-11-10T07:27:43.877835+00:00",
+      "last_success": "2026-11-10T07:27:43.877835+00:00",
       "last_error": null,
       "articles_count": 12
     }
   ],
   "articles": [
+    {
+      "id": "81f6f23186753568962a",
+      "original_title": "Ferrari reveals reason for drastic pace fluctuations during Brazilian GP",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/ferrari-fluctuating-brazilian-gp-pace-reason-revealed",
+      "normalized_url": "https://planetf1.com/news/ferrari-fluctuating-brazilian-gp-pace-reason-revealed",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-10T07:25:50+00:00",
+      "collection_date": "2026-11-10T07:27:42.596526+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/09135901/Lewis-Hamilton-Ferrari-Brazilian-GP-2-120x120.jpg",
+      "description": "Ferrari endured a disappointing weekend in Brazil, with neither driver troubling the podium places after grid penalties.",
+      "original_language": "en",
+      "category": "FIA & Regulations",
+      "persian_summary": null,
+      "cluster_id": "611ee3706337a2da"
+    },
     {
       "id": "41540927769096bb2bab",
       "original_title": "How Lawson stated his case with a brilliant Brazilian weekend",
