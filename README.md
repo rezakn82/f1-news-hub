@@ -307,11 +307,12 @@ For permission or other inquiries, contact FormulaFarsi through its [Telegram ch
 **FormulaFarsi** is a Persian-language Formula 1 media outlet sharing F1 news and content with Persian-speaking fans.
 
 - **Telegram:** [t.me/formulafarsi](https://t.me/formulafarsi)
+- **Instagram:** [FormulaFarsi](https://www.instagram.com/formulafarsi/?hl=en)
 - **News Hub:** [rezakn82.github.io/f1-news-hub](https://rezakn82.github.io/f1-news-hub/)
 - **GitHub Repository:** [github.com/rezakn82/f1-news-hub](https://github.com/rezakn82/f1-news-hub)
 
 <div align="center">
 
-**Made for Formula 1 fans, by FormulaFarsi. 🏁**
+**Made for Formula 1 fans, by FormulaFarsi Team. 🏁**
 
 </div>
