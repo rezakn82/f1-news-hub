@@ -1,6 +1,6 @@
 {
-  "last_global_update": "2026-11-10T09:32:14.103283+00:00",
-  "total_articles": 241,
+  "last_global_update": "2026-11-10T10:41:10.168237+00:00",
+  "total_articles": 249,
   "sources": [
     {
       "source_id": "formulatecnica",
@@ -12,10 +12,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
-      "articles_count": 10
+      "articles_count": 12
     },
     {
       "source_id": "formulapassion",
@@ -27,10 +27,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
-      "articles_count": 21
+      "articles_count": 22
     },
     {
       "source_id": "skysport_f1_it",
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 7
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -72,10 +72,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
-      "articles_count": 31
+      "articles_count": 32
     },
     {
       "source_id": "planetf1",
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
-      "articles_count": 20
+      "articles_count": 22
     },
     {
       "source_id": "autoracer",
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 10
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,10 +132,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
-      "articles_count": 11
+      "articles_count": 12
     },
     {
       "source_id": "autosport",
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 8
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 16
     },
@@ -207,8 +207,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 20
     },
@@ -222,10 +222,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
-      "articles_count": 15
+      "articles_count": 16
     },
     {
       "source_id": "f1_insider",
@@ -237,13 +237,115 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-10T09:32:14.103283+00:00",
-      "last_success": "2026-11-10T09:32:14.103283+00:00",
+      "last_checked": "2026-11-10T10:41:10.168237+00:00",
+      "last_success": "2026-11-10T10:41:10.168237+00:00",
       "last_error": null,
       "articles_count": 12
     }
   ],
   "articles": [
+    {
+      "id": "b495f1cf7b880225afc5",
+      "original_title": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg",
+      "translated_title": "",
+      "original_url": "https://www.formula1.com/en/latest/article/the-maximum-possible-hulkenberg-on-audis-fight-for-points-in-sao-paulo-grand-prix.1KO1iL7LzQm3Cfl0CGspws",
+      "normalized_url": "https://formula1.com/en/latest/article/the-maximum-possible-hulkenberg-on-audis-fight-for-points-in-sao-paulo-grand-prix.1KO1iL7LzQm3Cfl0CGspws",
+      "source_id": "formula1_official",
+      "source_name": "Formula1.com",
+      "publication_date": "2026-11-10T10:41:07.420165+00:00",
+      "collection_date": "2026-11-10T10:41:07.420070+00:00",
+      "thumbnail_url": null,
+      "description": "Nico Hulkenberg believes that P10 and the final point on offer was \"the maximum possible\" in the Sao Paulo Grand Prix, the Audi driver having recovered from a 10-second penalty.",
+      "original_language": "en",
+      "category": "FIA & Regulations",
+      "persian_summary": null,
+      "cluster_id": "bc5e51a691fe7509"
+    },
+    {
+      "id": "4d2c487d0558998add59",
+      "original_title": "Gran premio del Brasile 2026: o degli infiniti abissi della Ferrari",
+      "translated_title": "",
+      "original_url": "https://www.formulatecnica.it/2026/11/ferrari-abisso-gran-premio-brasile/?utm_source=rss&utm_medium=rss&utm_campaign=ferrari-abisso-gran-premio-brasile",
+      "normalized_url": "https://formulatecnica.it/2026/11/ferrari-abisso-gran-premio-brasile",
+      "source_id": "formulatecnica",
+      "source_name": "FormulaTecnica",
+      "publication_date": "2026-11-10T10:27:28+00:00",
+      "collection_date": "2026-11-10T10:41:07.933732+00:00",
+      "thumbnail_url": "https://www.formulatecnica.it/wp-content/uploads/2026/11/HWisymeXQAALFzN-819x1024.jpeg",
+      "description": "Il Gran Premio del Brasile non è quasi mai una corsa banale. Ma per la Ferrari può diventare un abisso […] <p>The post Gran premio del Brasile 2026: o degli infiniti abissi della Ferrari first appeared on F1 | FormulaTecnica: analisi, news e approfondimenti .</p>",
+      "original_language": "it",
+      "category": "Team News",
+      "persian_summary": null,
+      "cluster_id": "8f9786958bb9f2d4"
+    },
+    {
+      "id": "c66c035b39c9c1010393",
+      "original_title": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-10T10:25:06+00:00",
+      "collection_date": "2026-11-10T10:41:06.840270+00:00",
+      "thumbnail_url": "https://cdn-9.motorsport.com/images/amp/Y9lNZkP2/s6/lance-stroll-aston-martin-raci-2.jpg",
+      "description": "Honda says it needs to find the root cause of Lance Stroll’s multiple battery issues after yet another retirement for the Aston Martin Formula 1 driver in the Brazilian Grand Prix. Stroll’s race in Sao Paulo ended after 30 laps, as he lay 18th, 28 seconds adrift of 12-placed team-mate Fernando Alonso. This marked his 13th retirement in the 2026 campaign – discounting the Melbourne race ... Keep reading",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "017990b04b60e52f"
+    },
+    {
+      "id": "7c26a5ed5ca175677b43",
+      "original_title": "Red Bull rejects notion over Max Verstappen Brazilian GP grid penalty",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/red-bull-rejects-max-verstappen-brazilian-gp-grid-penalty-notion",
+      "normalized_url": "https://planetf1.com/news/red-bull-rejects-max-verstappen-brazilian-gp-grid-penalty-notion",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-10T10:15:09+00:00",
+      "collection_date": "2026-11-10T10:41:07.030026+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/09152715/Max-Verstappen-Red-Bull-Brazilian-GP-120x120.jpg",
+      "description": "Max Verstappen charged from 21st on the grid to second place in Brazil after an engine penalty.",
+      "original_language": "en",
+      "category": "FIA & Regulations",
+      "persian_summary": null,
+      "cluster_id": "e6bbbeb9fc1eb419"
+    },
+    {
+      "id": "b45f8ce0282a7b547ff7",
+      "original_title": "Todt blames tyres for Ferrari's Sao Paulo slump",
+      "translated_title": "",
+      "original_url": "https://www.pitpass.com/84123/Todt-blames-tyres-for-Ferraris-Sao-Paulo-slump",
+      "normalized_url": "https://pitpass.com/84123/Todt-blames-tyres-for-Ferraris-Sao-Paulo-slump",
+      "source_id": "pitpass",
+      "source_name": "Pitpass",
+      "publication_date": "2026-11-10T10:02:00+00:00",
+      "collection_date": "2026-11-10T10:41:08.360245+00:00",
+      "thumbnail_url": null,
+      "description": "It wasn't the grid penalties that compromised his drivers in Brazil, insists Fred Vasseur, but their tyres and the failure to get the best out of them.",
+      "original_language": "en",
+      "category": "FIA & Regulations",
+      "persian_summary": null,
+      "cluster_id": "cb554cd2413792fb"
+    },
+    {
+      "id": "264a4d682fa2a73b5662",
+      "original_title": "‘Not good enough’ – Carlos Sainz demands Pirelli wet tyre improvements",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/not-good-enough-carlos-sainz-demands-pirelli-wet-tyre-improvements",
+      "normalized_url": "https://planetf1.com/news/not-good-enough-carlos-sainz-demands-pirelli-wet-tyre-improvements",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-10T09:44:58+00:00",
+      "collection_date": "2026-11-10T10:41:07.030026+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/09120104/IMAGE-WITH-COLOUR-NEON-20-120x120.jpg",
+      "description": "Sainz wants better from Pirelli.",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "49b447d8ffb3fa6a"
+    },
     {
       "id": "cc1bac6928aa0ea5ad52",
       "original_title": "Calendario F1 2026, oggi una deadline importante: Imola non è più il piano B?",
@@ -260,6 +362,23 @@
       "category": "Transfers & Rumors",
       "persian_summary": null,
       "cluster_id": "e6cc8bb192513a4b"
+    },
+    {
+      "id": "2e2fc9cc61cd7d36d51e",
+      "original_title": "Ferrari, Vasseur: “I progressi fatti creano un buon clima in vista della pausa invernale”",
+      "translated_title": "",
+      "original_url": "https://www.formulapassion.it/f1/f1-news/ferrari-vasseur-progressi-fatti-creano-buon-clima-pausa-invernale",
+      "normalized_url": "https://formulapassion.it/f1/f1-news/ferrari-vasseur-progressi-fatti-creano-buon-clima-pausa-invernale",
+      "source_id": "formulapassion",
+      "source_name": "FormulaPassion",
+      "publication_date": "2026-11-10T09:25:15+00:00",
+      "collection_date": "2026-11-10T10:41:10.159917+00:00",
+      "thumbnail_url": null,
+      "description": "A margine della gara di Interlagos il manager Ferrari ha parlato della fiducia nel team",
+      "original_language": "it",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "5e4e1ffdff21509b"
     },
     {
       "id": "b98a6c919d151fe65e84",
@@ -685,6 +804,23 @@
       "category": "Race Weekend",
       "persian_summary": null,
       "cluster_id": "89e8cd8510643af2"
+    },
+    {
+      "id": "e3be7dfd7446552bede8",
+      "original_title": "GP del Brasile di F1: Norris trionfa, Ferrari deludente",
+      "translated_title": "",
+      "original_url": "https://www.formulatecnica.it/2026/11/gp-brasile-di-f1-norris-vince-ferrari-delude/?utm_source=rss&utm_medium=rss&utm_campaign=gp-brasile-di-f1-norris-vince-ferrari-delude",
+      "normalized_url": "https://formulatecnica.it/2026/11/gp-brasile-di-f1-norris-vince-ferrari-delude",
+      "source_id": "formulatecnica",
+      "source_name": "FormulaTecnica",
+      "publication_date": "2026-11-09T22:01:03+00:00",
+      "collection_date": "2026-11-10T10:41:07.933732+00:00",
+      "thumbnail_url": "https://www.formulatecnica.it/wp-content/uploads/2026/11/si202611080478-1024x535.webp",
+      "description": "Lando Norris (McLaren) ha vinto il GP del Brasile di F1. Il britannico, partito dalla pole, ha chiuso con 14,602 […] <p>The post GP del Brasile di F1: Norris trionfa, Ferrari deludente first appeared on F1 | FormulaTecnica: analisi, news e approfondimenti .</p>",
+      "original_language": "it",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "405872e1989445fc"
     },
     {
       "id": "4efba6cf05d28a1a8009",
