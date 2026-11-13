@@ -1,6 +1,6 @@
 {
-  "last_global_update": "2026-11-12T19:10:07.070791+00:00",
-  "total_articles": 461,
+  "last_global_update": "2026-11-13T00:36:40.470987+00:00",
+  "total_articles": 465,
   "sources": [
     {
       "source_id": "formulatecnica",
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 12
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 65
     },
@@ -42,10 +42,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
-      "articles_count": 25
+      "articles_count": 26
     },
     {
       "source_id": "motorsport_it",
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 42
     },
@@ -72,10 +72,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
-      "articles_count": 65
+      "articles_count": 66
     },
     {
       "source_id": "planetf1",
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
-      "articles_count": 62
+      "articles_count": 64
     },
     {
       "source_id": "autoracer",
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 21
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 36
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 11
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 29
     },
@@ -207,8 +207,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 27
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 24
     },
@@ -237,13 +237,64 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-12T19:10:07.070791+00:00",
-      "last_success": "2026-11-12T19:10:07.070791+00:00",
+      "last_checked": "2026-11-13T00:36:40.470987+00:00",
+      "last_success": "2026-11-13T00:36:40.470987+00:00",
       "last_error": null,
       "articles_count": 12
     }
   ],
   "articles": [
+    {
+      "id": "cc410402ac0ebc867ffa",
+      "original_title": "First Liam Lawson reaction as Racing Bulls makes final F1 2027 decision",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-f1-2027-decision-reaction",
+      "normalized_url": "https://planetf1.com/news/liam-lawson-racing-bulls-f1-2027-decision-reaction",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-13T00:03:40+00:00",
+      "collection_date": "2026-11-13T00:36:36.755542+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/03075247/liam-lawson-racing-bulls-f1-2026-mexican-grand-prix-120x120.jpg",
+      "description": "Liam Lawson's future has been decided.",
+      "original_language": "en",
+      "category": "Transfers & Rumors",
+      "persian_summary": null,
+      "cluster_id": "c539f3dca34a8b84"
+    },
+    {
+      "id": "07f8f9f69b6a95aed507",
+      "original_title": "Guenther Steiner suggests Max Verstappen could be better suited to lead Ferrari",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-12T21:00:04+00:00",
+      "collection_date": "2026-11-13T00:36:36.678419+00:00",
+      "thumbnail_url": "https://cdn-4.motorsport.com/images/amp/01QNX1q0/s6/motorsport-com-graphics-95.jpg",
+      "description": "Former Haas Formula 1 team principal Guenther Steiner has questioned whether Lewis Hamilton is the driver to turn Ferrari's fortunes around, suggesting Max Verstappen might be better suited to the role. Hamilton joined Ferrari in 2025 after a successful 12-year stint with Mercedes, during which time he won six of his seven world titles. After a tricky first season with Ferrari, the ... Keep reading",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "333300108ef54bc9"
+    },
+    {
+      "id": "06f47135029b3f958edc",
+      "original_title": "Oscar Piastri ‘missing that feeling’ in new admission over F1 2025 title ‘stress’",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/oscar-piastri-mclaren-stress",
+      "normalized_url": "https://planetf1.com/news/oscar-piastri-mclaren-stress",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-12T20:04:32+00:00",
+      "collection_date": "2026-11-13T00:36:36.755542+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/12174010/IMAGE-WITH-COLOUR-NEON-17-1-120x120.jpg",
+      "description": "Oscar Piastri has endured a prolonged winless run since missing out on the 2025 title to McLaren teammate Lando Norris.",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "d1c5ead8ade788c6"
+    },
     {
       "id": "5357bfcb06115b323e44",
       "original_title": "Why Racing Bulls stuck with Lawson and Lindblad",
@@ -1586,6 +1637,23 @@
       "category": "Race Weekend",
       "persian_summary": null,
       "cluster_id": "6f64e9a1cb4cb827"
+    },
+    {
+      "id": "de8e135d265818346f06",
+      "original_title": "Kimi Antonelli a San Siro per Italia-Francia: standing ovation per il campione del mondo",
+      "translated_title": "",
+      "original_url": "https://sport.sky.it/calcio/nations-league/2026/11/12/kimi-antonelli-italia-francia-san-siro-foto-video",
+      "normalized_url": "https://sport.sky.it/calcio/nations-league/2026/11/12/kimi-antonelli-italia-francia-san-siro-foto-video",
+      "source_id": "skysport_f1_it",
+      "source_name": "Sky Sport F1 IT",
+      "publication_date": "2026-11-12T00:00:00+00:00",
+      "collection_date": "2026-11-13T00:36:37.008490+00:00",
+      "thumbnail_url": null,
+      "description": "",
+      "original_language": "it",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "58e245f331ca2c86"
     },
     {
       "id": "9a44db1c347f3b94594b",
