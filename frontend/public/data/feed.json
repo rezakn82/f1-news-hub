@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-13T21:40:56.142083+00:00",
+  "last_global_update": "2026-11-14T01:51:00.920670+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 5
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 83
     },
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 30
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 47
     },
@@ -72,10 +72,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
-      "articles_count": 76
+      "articles_count": 77
     },
     {
       "source_id": "planetf1",
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
-      "articles_count": 79
+      "articles_count": 80
     },
     {
       "source_id": "autoracer",
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 25
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 37
     },
@@ -147,10 +147,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
-      "articles_count": 30
+      "articles_count": 28
     },
     {
       "source_id": "fia_official",
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 3
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 31
     },
@@ -205,10 +205,10 @@
       "logo_text": "RF",
       "accent_color": "#6366f1",
       "enabled": true,
-      "status": "Error",
-      "active_method": "Unavailable",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": null,
+      "status": "Online",
+      "active_method": "RSS/Atom Feed",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 27
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 27
     },
@@ -237,13 +237,47 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-13T21:40:56.142083+00:00",
-      "last_success": "2026-11-13T21:40:56.142083+00:00",
+      "last_checked": "2026-11-14T01:51:00.920670+00:00",
+      "last_success": "2026-11-14T01:51:00.920670+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "12ecffa88a15df33ff02",
+      "original_title": "Lawrence Stroll ‘at wit’s end’; Hamilton on alert; FIA court hearing set – roundup",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/lawrence-stroll-aston-martin-reliability-lewis-hamilton-charles-leclerc",
+      "normalized_url": "https://planetf1.com/news/lawrence-stroll-aston-martin-reliability-lewis-hamilton-charles-leclerc",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-13T22:00:14+00:00",
+      "collection_date": "2026-11-14T01:50:59.376151+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/03/06093010/lawrence-stroll-aston-martin-120x120.jpg",
+      "description": "Your roundup of the latest F1 news is go, go, go!",
+      "original_language": "en",
+      "category": "FIA & Regulations",
+      "persian_summary": null,
+      "cluster_id": "84a5060274efd4a6"
+    },
+    {
+      "id": "14434a162f9e38cb5b90",
+      "original_title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-13T21:56:05+00:00",
+      "collection_date": "2026-11-14T01:50:59.131526+00:00",
+      "thumbnail_url": "https://cdn-9.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg",
+      "description": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion. The Italian driver secured the 2026 title at the Mexican Grand Prix at the age of 20, in only his second season in F1, and has won nine grands prix so far this year. Speaking on the NU Silver Arrows Radio Show, Allison ... Keep reading",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "78a57cbd9e5db253"
+    },
     {
       "id": "c9732d3f103ee4444390",
       "original_title": "Antonelli names his biggest threat for 2027 title defence",
@@ -8709,40 +8743,6 @@
       "category": "Race Weekend",
       "persian_summary": null,
       "cluster_id": "b344c38d8798cea5"
-    },
-    {
-      "id": "bd40d672d63de2ddab7d",
-      "original_title": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
-      "translated_title": "",
-      "original_url": "https://www.autosport.com/f1/news/exhausted-russell-set-for-brazilian-f1-grid-penalty/10872138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "normalized_url": "https://autosport.com/f1/news/exhausted-russell-set-for-brazilian-f1-grid-penalty/10872138",
-      "source_id": "autosport",
-      "source_name": "Autosport",
-      "publication_date": "2026-11-06T15:37:02+00:00",
-      "collection_date": "2026-11-10T07:24:15.174148+00:00",
-      "thumbnail_url": "https://cdn-3.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
-      "description": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season. Following a brace of power unit related issues earlier this year, the latest arriving after a failure at the Bahrain GP in Malaysia, Russell was always going to require a sixth ICE before the end of the year. With Lewis ... Keep reading",
-      "original_language": "en",
-      "category": "FIA & Regulations",
-      "persian_summary": null,
-      "cluster_id": "5402d584a95e10c0"
-    },
-    {
-      "id": "c8c9b5f0401c7c6c8a6a",
-      "original_title": "Ferrari set for crunch meeting as Hamilton and Leclerc tension reaches Brazil",
-      "translated_title": "",
-      "original_url": "https://www.autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "normalized_url": "https://autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030",
-      "source_id": "autosport",
-      "source_name": "Autosport",
-      "publication_date": "2026-11-06T11:09:53+00:00",
-      "collection_date": "2026-11-10T07:24:15.174148+00:00",
-      "thumbnail_url": "https://cdn-7.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "description": "Ferrari arrived at Interlagos facing a problem that, until just a few weeks ago, would have been difficult to imagine in quite this form. After a long season spent chasing competitiveness, the team finally appears to have found many of the answers that had been missing with its SF-26 Formula 1 car. The results from the last few grands prix confirm that progress, but just as the Scuderia has ... Keep reading",
-      "original_language": "en",
-      "category": "Driver News",
-      "persian_summary": null,
-      "cluster_id": "5dc0ee333e2b4359"
     }
   ]
 }
