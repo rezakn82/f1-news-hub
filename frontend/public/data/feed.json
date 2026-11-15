@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-15T00:00:12.666465+00:00",
+  "last_global_update": "2026-11-15T06:14:29.163815+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 4
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 91
     },
@@ -41,11 +41,11 @@
       "accent_color": "#0284c7",
       "enabled": true,
       "status": "Online",
-      "active_method": "HTML DOM Parser",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "active_method": "XML News Sitemap",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
-      "articles_count": 34
+      "articles_count": 35
     },
     {
       "source_id": "motorsport_it",
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 34
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 84
     },
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
-      "articles_count": 93
+      "articles_count": 94
     },
     {
       "source_id": "autoracer",
@@ -102,10 +102,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
-      "articles_count": 26
+      "articles_count": 25
     },
     {
       "source_id": "f1technical",
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 39
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 3
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 29
     },
@@ -207,10 +207,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
-      "articles_count": 19
+      "articles_count": 18
     },
     {
       "source_id": "pitpass",
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 29
     },
@@ -237,13 +237,30 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-15T00:00:12.666465+00:00",
-      "last_success": "2026-11-15T00:00:12.666465+00:00",
+      "last_checked": "2026-11-15T06:14:29.163815+00:00",
+      "last_success": "2026-11-15T06:14:29.163815+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "d52b9fdeb311b863ba36",
+      "original_title": "Lewis Hamilton ‘causing’ Ferrari No.1 saga as Damon Hill theory rejected",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/lewis-hamilton-causing-ferrari-tension-ralf-schumacher",
+      "normalized_url": "https://planetf1.com/news/lewis-hamilton-causing-ferrari-tension-ralf-schumacher",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-15T04:00:30+00:00",
+      "collection_date": "2026-11-15T06:14:28.027951+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/14114507/lewis-hamilton-ferrari-brazil-gp-2026-planetf1-120x120.jpg",
+      "description": "\"He is the one causing it.\"",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "18470490d99e15b4"
+    },
     {
       "id": "05ad98fb4effc62ab05f",
       "original_title": "Mercedes&Kimi, un'altra festa: campioni Costruttori 2026! ATTO DI FORZA La Mercedes conquista per la nona volta nella storia il Campionato Costruttori: decisivi i punti... 08 nov - 19:40 27 foto",
@@ -311,6 +328,23 @@
       "category": "Latest News",
       "persian_summary": null,
       "cluster_id": "c07a71e93e94a124"
+    },
+    {
+      "id": "cd21c4c98f57545c49cf",
+      "original_title": "Asian Le Mans Series, Ferrari di AF Corse domina Gara 1 nel diluvio del Paul Ricard",
+      "translated_title": "",
+      "original_url": "https://sport.sky.it/motori/2026/11/15/asian-le-mans-series-risultati",
+      "normalized_url": "https://sport.sky.it/motori/2026/11/15/asian-le-mans-series-risultati",
+      "source_id": "skysport_f1_it",
+      "source_name": "Sky Sport F1 IT",
+      "publication_date": "2026-11-15T00:00:00+00:00",
+      "collection_date": "2026-11-15T06:14:28.012287+00:00",
+      "thumbnail_url": null,
+      "description": "",
+      "original_language": "it",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "03b11362cd15b901"
     },
     {
       "id": "e57fedfb82945f605500",
@@ -8709,40 +8743,6 @@
       "category": "FIA & Regulations",
       "persian_summary": null,
       "cluster_id": "7e56cd1b0e3a13aa"
-    },
-    {
-      "id": "18936f3006bcb085265e",
-      "original_title": "GP Brasile: Norris trionfa dopo una gara ricca di colpi di scena. Verstappen risale e conclude 2°, Hadjar 3°",
-      "translated_title": "",
-      "original_url": "https://autoracer.it/gp-brasile-f1-2026-autoracer/",
-      "normalized_url": "https://autoracer.it/gp-brasile-f1-2026-autoracer",
-      "source_id": "autoracer",
-      "source_name": "AutoRacer.it",
-      "publication_date": "2026-11-08T18:40:10+00:00",
-      "collection_date": "2026-11-10T07:24:15.016546+00:00",
-      "thumbnail_url": null,
-      "description": "Il GP del Brasile si conclude con la vittoria di Lando Norris su McLaren, seguito dalle Red Bull di Verstappen ed Hadjar. Ottima gara per il quattro volte campione del mondo, che scattato dal fondo della griglia conquista un podio fondamentale per la squadra. Ai piedi del podio troviamo le due Mercedes di Russell ed […] L'articolo GP Brasile: Norris trionfa dopo una gara ricca di colpi di scena. Verstappen risale e conclude 2°, Hadjar 3° proviene da AutoRacer.it .",
-      "original_language": "it",
-      "category": "Technical News",
-      "persian_summary": null,
-      "cluster_id": "1a4cca770cf476be"
-    },
-    {
-      "id": "3013352e5e9d5b61e520",
-      "original_title": "Mercedes wins the constructors’ title for the ninth time, tying with Williams | Formula 1",
-      "translated_title": "",
-      "original_url": "https://www.racefans.net/2026/11/08/mercedes-wins-the-constructors-title-for-the-ninth-time-tying-with-williams/",
-      "normalized_url": "https://racefans.net/2026/11/08/mercedes-wins-the-constructors-title-for-the-ninth-time-tying-with-williams",
-      "source_id": "racefans",
-      "source_name": "RaceFans",
-      "publication_date": "2026-11-08T18:39:55+00:00",
-      "collection_date": "2026-11-10T07:24:16.217031+00:00",
-      "thumbnail_url": null,
-      "description": "Mercedes have clinched the Formula 1 world championship for the first time since their record run from 2014 to 2021.",
-      "original_language": "en",
-      "category": "Team News",
-      "persian_summary": null,
-      "cluster_id": "8a856afc52d3dc1d"
     }
   ]
 }
