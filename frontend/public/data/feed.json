@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-17T17:43:54.613479+00:00",
+  "last_global_update": "2026-11-17T23:59:05.157258+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 3
     },
@@ -27,10 +27,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
-      "articles_count": 105
+      "articles_count": 104
     },
     {
       "source_id": "skysport_f1_it",
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 27
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 35
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 81
     },
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
-      "articles_count": 111
+      "articles_count": 112
     },
     {
       "source_id": "autoracer",
@@ -102,10 +102,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
-      "articles_count": 23
+      "articles_count": 22
     },
     {
       "source_id": "f1technical",
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 44
     },
@@ -147,10 +147,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
-      "articles_count": 14
+      "articles_count": 13
     },
     {
       "source_id": "fia_official",
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 3
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 23
     },
@@ -207,10 +207,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
-      "articles_count": 12
+      "articles_count": 13
     },
     {
       "source_id": "pitpass",
@@ -222,10 +222,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
-      "articles_count": 19
+      "articles_count": 20
     },
     {
       "source_id": "f1_insider",
@@ -237,13 +237,81 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-17T17:43:54.613479+00:00",
-      "last_success": "2026-11-17T17:43:54.613479+00:00",
+      "last_checked": "2026-11-17T23:59:05.157258+00:00",
+      "last_success": "2026-11-17T23:59:05.157258+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "b4fd1033fea694b1dfe4",
+      "original_title": "Toto Wolff explains why George Russell won't get Mercedes’ new turbo in Las Vegas",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-17T23:30:27+00:00",
+      "collection_date": "2026-11-17T23:59:03.057826+00:00",
+      "thumbnail_url": "https://cdn-6.motorsport.com/images/amp/2y7Q8Zg6/s6/motorsport-com-graphics-1-2.jpg",
+      "description": "Having officially wrapped up both the 2026 constructors' and drivers' world championships in Brazil, Mercedes arrives at the Las Vegas Grand Prix with a dual mandate: test development parts for 2027 and secure the runner-up spot in the drivers' standings for George Russell. To accomplish the first goal, the Silver Arrows are finally introducing a new turbo specification developed under Formula ... Keep reading",
+      "original_language": "en",
+      "category": "Transfers & Rumors",
+      "persian_summary": null,
+      "cluster_id": "e6ce0312273558ce"
+    },
+    {
+      "id": "c9924b40c9ec939817ba",
+      "original_title": "McLaren explains reasons for Oscar Piastri deficit to Norris in 2026",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/mclaren-explains-oscar-piastri-norris-deficit",
+      "normalized_url": "https://planetf1.com/news/mclaren-explains-oscar-piastri-norris-deficit",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-17T21:03:07+00:00",
+      "collection_date": "2026-11-17T23:59:03.262254+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/17165538/Lando-Norris-Oscar-Piastri-McLaren-F1-2026-120x120.jpg",
+      "description": "Oscar Piastri has regularly been outpaced by McLaren teammate Lando Norris throughout 2026.",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "9a8ee252e6820abf"
+    },
+    {
+      "id": "692b36d7cd7e782ba757",
+      "original_title": "Ferrari warned of Piastri 2025 despite potential ‘catastrophic’ Hamilton v Leclerc rivalry",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/ferrari-lewis-hamilton-charles-leclerc-catastrophic-f1-2027-warning",
+      "normalized_url": "https://planetf1.com/news/ferrari-lewis-hamilton-charles-leclerc-catastrophic-f1-2027-warning",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-17T19:12:45+00:00",
+      "collection_date": "2026-11-17T23:59:03.262254+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/06120922/lewis-hamilton-and-charles-leclerc-head-down-1-120x120.jpg",
+      "description": "\"It has the potential to be really bad...\"",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "cc0dfcdf43bf75fa"
+    },
+    {
+      "id": "c0a8776dcc7e844bd04b",
+      "original_title": "Las Vegas Grand Prix Preview - Mercedes",
+      "translated_title": "",
+      "original_url": "https://www.pitpass.com/84144/Las-Vegas-Grand-Prix-Preview-Mercedes",
+      "normalized_url": "https://pitpass.com/84144/Las-Vegas-Grand-Prix-Preview-Mercedes",
+      "source_id": "pitpass",
+      "source_name": "Pitpass",
+      "publication_date": "2026-11-17T18:37:00+00:00",
+      "collection_date": "2026-11-17T23:59:04.522579+00:00",
+      "thumbnail_url": null,
+      "description": "Mercedes will have the ADUO enabled turbo specification available from this weekend.",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "8256fd454dbac19d"
+    },
     {
       "id": "f5d4dd4d091fb4f30d91",
       "original_title": "Aston Martin showcase bespoke Las Vegas Grand Prix livery",
@@ -1858,6 +1926,23 @@
       "category": "Race Weekend",
       "persian_summary": null,
       "cluster_id": "3397ed61ca799021"
+    },
+    {
+      "id": "a6b3eda2febca83324ee",
+      "original_title": "Cadillac, Williams, Alpine and Aston Martin change liveries for Las Vegas GP | Formula 1",
+      "translated_title": "",
+      "original_url": "https://www.racefans.net/2026/11/16/cadillac-williams-alpine-and-aston-martin-change-liveries-for-las-vegas-gp/",
+      "normalized_url": "https://racefans.net/2026/11/16/cadillac-williams-alpine-and-aston-martin-change-liveries-for-las-vegas-gp",
+      "source_id": "racefans",
+      "source_name": "RaceFans",
+      "publication_date": "2026-11-16T16:10:54+00:00",
+      "collection_date": "2026-11-17T23:59:05.009884+00:00",
+      "thumbnail_url": null,
+      "description": "Cadillac, Williams, Alpine and Aston Martin have revealed special liveries for this weekend's Las Vegas Grand Prix.",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "a0614fc2c5932f7c"
     },
     {
       "id": "039382861eaced04f694",
@@ -8658,91 +8743,6 @@
       "category": "Driver News",
       "persian_summary": null,
       "cluster_id": "95ba770462f9cb4f"
-    },
-    {
-      "id": "da53376299386c0c1946",
-      "original_title": "Ferrari lifts lid on Lewis Hamilton decision after 65-place penalty",
-      "translated_title": "",
-      "original_url": "https://www.planetf1.com/news/ferrari-lifts-lid-on-lewis-hamilton-decision-after-65-place-penalty",
-      "normalized_url": "https://planetf1.com/news/ferrari-lifts-lid-on-lewis-hamilton-decision-after-65-place-penalty",
-      "source_id": "planetf1",
-      "source_name": "PlanetF1",
-      "publication_date": "2026-11-10T15:16:00+00:00",
-      "collection_date": "2026-11-10T18:50:39.264958+00:00",
-      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/10084618/lewis-hamilton-ferrari-pit-box-smoke-1-120x120.jpg",
-      "description": "Hamilton was already facing a 10-place penalty when smoke poured from his Ferrari in FP3.",
-      "original_language": "en",
-      "category": "FIA & Regulations",
-      "persian_summary": null,
-      "cluster_id": "3eba584ce2c334d0"
-    },
-    {
-      "id": "c6ced51d4d225567090d",
-      "original_title": "Ferrari, non ci siamo: la vittoria sul bagnato manca da 14 anni e anche la SF-26 non funziona",
-      "translated_title": "",
-      "original_url": "https://autoracer.it/f1-brasile-live-youtube-podcast-norris-verstappen-mercedes-ferrari/",
-      "normalized_url": "https://autoracer.it/f1-brasile-live-youtube-podcast-norris-verstappen-mercedes-ferrari",
-      "source_id": "autoracer",
-      "source_name": "AutoRacer.it",
-      "publication_date": "2026-11-10T15:07:14+00:00",
-      "collection_date": "2026-11-10T18:50:39.458018+00:00",
-      "thumbnail_url": null,
-      "description": "Il Gran Premio del Brasile non è stato avaro di sorprese. Le caratteristiche molto tecniche e particolari del circuito, unite all’imprevedibilità meteo, che ha portato la pioggia sia al Sabato che alla Domenica, ha rimescolato più volte le carte in tavola. A spuntarla è stato Lando Norris, che riesce a far funzionare al meglio la […] L'articolo Ferrari, non ci siamo: la vittoria sul bagnato manca da 14 anni e anche la SF-26 non funziona proviene da AutoRacer.it .",
-      "original_language": "it",
-      "category": "Driver News",
-      "persian_summary": null,
-      "cluster_id": "d76b42f7972fdddb"
-    },
-    {
-      "id": "bb0159ab58a4b98a9be2",
-      "original_title": "Hülkenberg: “È positivo portare a casa un punto da una gara così complessa”",
-      "translated_title": "",
-      "original_url": "https://www.formulapassion.it/f1/f1-news/hulkenberg-positivo-portare-a-casa-un-punto-da-una-gara-cosi-complessa",
-      "normalized_url": "https://formulapassion.it/f1/f1-news/hulkenberg-positivo-portare-a-casa-un-punto-da-una-gara-cosi-complessa",
-      "source_id": "formulapassion",
-      "source_name": "FormulaPassion",
-      "publication_date": "2026-11-10T15:00:00+00:00",
-      "collection_date": "2026-11-10T18:50:39.061505+00:00",
-      "thumbnail_url": null,
-      "description": "Secondo piazzamento consecutivo in zona punti per l'Audi, questa volta grazie al 10° posto del pilota tedesco",
-      "original_language": "it",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "dbebb68e2454617a"
-    },
-    {
-      "id": "58bebfaff394a2d9e7b6",
-      "original_title": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
-      "translated_title": "",
-      "original_url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "normalized_url": "https://autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643",
-      "source_id": "autosport",
-      "source_name": "Autosport",
-      "publication_date": "2026-11-10T14:52:26+00:00",
-      "collection_date": "2026-11-10T18:50:39.383426+00:00",
-      "thumbnail_url": "https://cdn-6.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg",
-      "description": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1’s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war. The Middle Eastern conflict, which started in late February as the United States and Israel launched strikes on Iran, has destabilised the region. The calendars of many motorsport championships have been impacted – not least ... Keep reading",
-      "original_language": "en",
-      "category": "Latest News",
-      "persian_summary": null,
-      "cluster_id": "24d0d8b8f8656fa6"
-    },
-    {
-      "id": "c551af545fbd4e02f910",
-      "original_title": "F1 2026 calendar update: Imola GP off the table, no plan B if war escalates",
-      "translated_title": "",
-      "original_url": "https://www.motorsport.com/f1/news/f1-2026-calendar-update-imola-gp-off-the-table-no-plan-b-if-war-escalates/10873637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "normalized_url": "https://motorsport.com/f1/news/f1-2026-calendar-update-imola-gp-off-the-table-no-plan-b-if-war-escalates/10873637",
-      "source_id": "motorsport_en",
-      "source_name": "Motorsport.com",
-      "publication_date": "2026-11-10T14:50:41+00:00",
-      "collection_date": "2026-11-10T18:50:38.926599+00:00",
-      "thumbnail_url": "https://cdn-6.motorsport.com/images/amp/27No3jm0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "description": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1’s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war. The Middle Eastern conflict, which started in late February as the United States and Israel launched strikes on Iran, has destabilised the region. The calendars of many motorsport championships have been impacted – not least ... Keep reading",
-      "original_language": "en",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "24d0d8b8f8656fa6"
     }
   ]
 }
