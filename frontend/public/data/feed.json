@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-21T21:45:24.091361+00:00",
+  "last_global_update": "2026-11-22T01:41:18.229087+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 5
     },
@@ -27,10 +27,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
-      "articles_count": 58
+      "articles_count": 59
     },
     {
       "source_id": "skysport_f1_it",
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 69
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 39
     },
@@ -72,10 +72,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
-      "articles_count": 68
+      "articles_count": 67
     },
     {
       "source_id": "planetf1",
@@ -87,8 +87,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 73
     },
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 25
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 51
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 18
     },
@@ -162,10 +162,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
-      "articles_count": 4
+      "articles_count": 5
     },
     {
       "source_id": "racingnews365",
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,10 +192,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
-      "articles_count": 29
+      "articles_count": 28
     },
     {
       "source_id": "racefans",
@@ -205,10 +205,10 @@
       "logo_text": "RF",
       "accent_color": "#6366f1",
       "enabled": true,
-      "status": "Error",
-      "active_method": "Unavailable",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": null,
+      "status": "Online",
+      "active_method": "RSS/Atom Feed",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 15
     },
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 46
     },
@@ -237,13 +237,47 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-21T21:45:24.091361+00:00",
-      "last_success": "2026-11-21T21:45:24.091361+00:00",
+      "last_checked": "2026-11-22T01:41:18.229087+00:00",
+      "last_success": "2026-11-22T01:41:18.229087+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "8318bbce9acfdbac2cd3",
+      "original_title": "FIA and AAMC extend FIA GT World Cup agreement through 2028",
+      "translated_title": "",
+      "original_url": "https://www.fia.com/news/fia-and-aamc-extend-fia-gt-world-cup-agreement-through-2028",
+      "normalized_url": "https://fia.com/news/fia-and-aamc-extend-fia-gt-world-cup-agreement-through-2028",
+      "source_id": "fia_official",
+      "source_name": "FIA F1 Championship",
+      "publication_date": "2026-11-22T00:47:00+00:00",
+      "collection_date": "2026-11-22T01:41:16.985177+00:00",
+      "thumbnail_url": "https://www.fia.com/sites/default/files/news/main_image/macau_gp_fia_2026_aw-320229.jpg",
+      "description": "Sport news Under the new agreement, covering the 2027 and 2028 editions, AAMC will continue as the promoter of the FIA GT World Cup, which will remain a key feature of the annual Macau Grand Prix. The agreement continues the long-standing cooperation between the FIA and AAMC and reinforces their commitment to the development and raising the international profile of the world’s most prestigious standalone events for GT machinery. The commitment provides greater stability for the development of long-term commercial and technical partnerships around the event, including arrangements with key suppliers. Under the renewed agreement, the FIA will r",
+      "original_language": "en",
+      "category": "FIA & Regulations",
+      "persian_summary": null,
+      "cluster_id": "8bf353999e3a262a"
+    },
+    {
+      "id": "0e3b512cde4c03f32e07",
+      "original_title": "F1 GP Las Vegas 2026, gara: Verstappen in pole, Ferrari a centro gruppo. La partenza è alle 5.00 – DIRETTA",
+      "translated_title": "",
+      "original_url": "https://www.formulapassion.it/f1/f1-live/diretta-f1-gp-las-vegas-2026-gara-aggiornamenti-ferrari-leclerc-hamilton-antonelli",
+      "normalized_url": "https://formulapassion.it/f1/f1-live/diretta-f1-gp-las-vegas-2026-gara-aggiornamenti-ferrari-leclerc-hamilton-antonelli",
+      "source_id": "formulapassion",
+      "source_name": "FormulaPassion",
+      "publication_date": "2026-11-21T22:00:00+00:00",
+      "collection_date": "2026-11-22T01:41:16.707088+00:00",
+      "thumbnail_url": null,
+      "description": "La cronaca live minuto per minuto delle prove ufficiali che decidono la griglia di partenza del fine settimana a Las Vegas",
+      "original_language": "it",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "c98c9a7fc5f9c35c"
+    },
     {
       "id": "8a86247ae3ddb274b581",
       "original_title": "How F1 fans can avoid emotional betting in Las Vegas",
@@ -8709,40 +8743,6 @@
       "category": "Race Weekend",
       "persian_summary": null,
       "cluster_id": "389844c315014a24"
-    },
-    {
-      "id": "ad513ffe2d882aec4e77",
-      "original_title": "Verstappen isn't a fan of F1's 2027 biometric data plan",
-      "translated_title": "",
-      "original_url": "https://www.the-race.com/formula-1/f1-2027-biometric-data-plan-whoop-max-verstappen-not-a-fan/",
-      "normalized_url": "https://the-race.com/formula-1/f1-2027-biometric-data-plan-whoop-max-verstappen-not-a-fan",
-      "source_id": "therace",
-      "source_name": "The Race",
-      "publication_date": "2026-11-19T06:13:10+00:00",
-      "collection_date": "2026-11-19T13:40:09.962643+00:00",
-      "thumbnail_url": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/PR4.jpg",
-      "description": "F1 is going to introduce biometric data into its broadcast package next year - but Max Verstappen doesn't want anything to do with it",
-      "original_language": "en",
-      "category": "Transfers & Rumors",
-      "persian_summary": null,
-      "cluster_id": "85cded9de7fc4004"
-    },
-    {
-      "id": "ba28959adeabb5832611",
-      "original_title": "Kimi Antonelli: Yo-yo racing to return at F1 Las Vegas GP",
-      "translated_title": "",
-      "original_url": "https://www.motorsport.com/f1/news/kimi-antonelli-yo-yo-racing-to-return-at-f1-las-vegas-gp/10875460/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "normalized_url": "https://motorsport.com/f1/news/kimi-antonelli-yo-yo-racing-to-return-at-f1-las-vegas-gp/10875460",
-      "source_id": "motorsport_en",
-      "source_name": "Motorsport.com",
-      "publication_date": "2026-11-19T06:04:49+00:00",
-      "collection_date": "2026-11-19T13:40:09.252740+00:00",
-      "thumbnail_url": "https://cdn-1.motorsport.com/images/amp/68VWyaD2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "description": "Formula 1 world champion Kimi Antonelli has predicted the return of “yo-yo” racing at this weekend’s Las Vegas Grand Prix thanks to its low-downforce characteristics. The new-for-2026 regulations, which feature a more electrical power unit, have caused a radically different style of racing at certain circuits with it being labelled as ‘yo-yo’. This is where cars can easily overtake ... Keep reading",
-      "original_language": "en",
-      "category": "FIA & Regulations",
-      "persian_summary": null,
-      "cluster_id": "7621d308db18d2bb"
     }
   ]
 }
