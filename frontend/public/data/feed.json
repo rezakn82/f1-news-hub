@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-22T22:26:06.609360+00:00",
+  "last_global_update": "2026-11-23T02:58:20.919477+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 5
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 57
     },
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 61
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 36
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 65
     },
@@ -87,8 +87,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 76
     },
@@ -102,8 +102,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 28
     },
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 55
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 17
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 5
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 25
     },
@@ -205,12 +205,12 @@
       "logo_text": "RF",
       "accent_color": "#6366f1",
       "enabled": true,
-      "status": "Error",
-      "active_method": "Unavailable",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": null,
+      "status": "Online",
+      "active_method": "RSS/Atom Feed",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
-      "articles_count": 17
+      "articles_count": 18
     },
     {
       "source_id": "pitpass",
@@ -222,10 +222,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
-      "articles_count": 53
+      "articles_count": 52
     },
     {
       "source_id": "f1_insider",
@@ -237,13 +237,30 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-22T22:26:06.609360+00:00",
-      "last_success": "2026-11-22T22:26:06.609360+00:00",
+      "last_checked": "2026-11-23T02:58:20.919477+00:00",
+      "last_success": "2026-11-23T02:58:20.919477+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "5b54d79967d730948685",
+      "original_title": "Max Verstappen compares Vegas mayhem to Mario Kart",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/max-verstappen-compares-vegas-mayhem-to-mario-kart",
+      "normalized_url": "https://planetf1.com/news/max-verstappen-compares-vegas-mayhem-to-mario-kart",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-23T00:01:40+00:00",
+      "collection_date": "2026-11-23T02:58:19.124475+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/22105045/IMAGE-WITH-COLOUR-NEON-50-120x120.jpg",
+      "description": "Does Verstappen have a point?",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "a9295ae6dee18867"
+    },
     {
       "id": "255ad0e94679580d8464",
       "original_title": "Haas confirm Camara will drive for team in final races of 2026",
@@ -430,6 +447,23 @@
       "category": "Team News",
       "persian_summary": null,
       "cluster_id": "f36dd5b712982f72"
+    },
+    {
+      "id": "1a442e8cf76034b31a89",
+      "original_title": "Camara confirmed at Haas for final two Formula 1 races of 2026 | Formula 1",
+      "translated_title": "",
+      "original_url": "https://www.racefans.net/2026/11/22/camara-confirmed-at-haas-for-final-two-formula-1-races-of-2026/",
+      "normalized_url": "https://racefans.net/2026/11/22/camara-confirmed-at-haas-for-final-two-formula-1-races-of-2026",
+      "source_id": "racefans",
+      "source_name": "RaceFans",
+      "publication_date": "2026-11-22T18:05:03+00:00",
+      "collection_date": "2026-11-23T02:58:20.342710+00:00",
+      "thumbnail_url": null,
+      "description": "Rafael Camara will contest the final two rounds of the season for Haas, the team has confirmed.",
+      "original_language": "en",
+      "category": "Team News",
+      "persian_summary": null,
+      "cluster_id": "ebbaa7652bb1c962"
     },
     {
       "id": "a3e0e01304ccf7da3800",
@@ -8709,40 +8743,6 @@
       "category": "Team News",
       "persian_summary": null,
       "cluster_id": "3495d7a20a459b20"
-    },
-    {
-      "id": "09e9ff3610bbedc7bf29",
-      "original_title": "Las Vegas Grand Prix: Practice team notes - Haas",
-      "translated_title": "",
-      "original_url": "https://www.pitpass.com/84162/Las-Vegas-Grand-Prix-Practice-team-notes-Haas",
-      "normalized_url": "https://pitpass.com/84162/Las-Vegas-Grand-Prix-Practice-team-notes-Haas",
-      "source_id": "pitpass",
-      "source_name": "Pitpass",
-      "publication_date": "2026-11-20T06:04:00+00:00",
-      "collection_date": "2026-11-20T11:24:14.671096+00:00",
-      "thumbnail_url": null,
-      "description": "We struggled a little bit to get the tires to work, which we anticipated, but we learned everything we could from these conditions.",
-      "original_language": "en",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "8256fd454dbac19d"
-    },
-    {
-      "id": "1f335522050ecf4d11d2",
-      "original_title": "Lewis Hamilton delivers fresh update on Ferrari contract situation",
-      "translated_title": "",
-      "original_url": "https://www.planetf1.com/news/lewis-hamilton-delivers-ferrari-contract-update",
-      "normalized_url": "https://planetf1.com/news/lewis-hamilton-delivers-ferrari-contract-update",
-      "source_id": "planetf1",
-      "source_name": "PlanetF1",
-      "publication_date": "2026-11-20T06:02:54+00:00",
-      "collection_date": "2026-11-20T11:24:13.254939+00:00",
-      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/19093332/Lewis-Hamilton-Ferrari-1-120x120.jpg",
-      "description": "Lewis Hamilton's current contract with Ferrari is due to expire at the end of 2027.",
-      "original_language": "en",
-      "category": "Transfers & Rumors",
-      "persian_summary": null,
-      "cluster_id": "784d34ed1ac0e26b"
     }
   ]
 }
