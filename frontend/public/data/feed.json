@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-26T23:45:31.726957+00:00",
+  "last_global_update": "2026-11-27T05:26:14.131360+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 4
     },
@@ -27,8 +27,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 65
     },
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 39
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 33
     },
@@ -72,8 +72,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 76
     },
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
-      "articles_count": 94
+      "articles_count": 95
     },
     {
       "source_id": "autoracer",
@@ -102,7 +102,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 19
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,10 +132,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
-      "articles_count": 64
+      "articles_count": 65
     },
     {
       "source_id": "autosport",
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 21
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 1
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 27
     },
@@ -207,10 +207,10 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
       "last_success": null,
       "last_error": null,
-      "articles_count": 18
+      "articles_count": 17
     },
     {
       "source_id": "pitpass",
@@ -222,10 +222,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
-      "articles_count": 39
+      "articles_count": 38
     },
     {
       "source_id": "f1_insider",
@@ -237,13 +237,64 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-26T23:45:31.726957+00:00",
-      "last_success": "2026-11-26T23:45:31.726957+00:00",
+      "last_checked": "2026-11-27T05:26:14.131360+00:00",
+      "last_success": "2026-11-27T05:26:14.131360+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "1bd32e5b4ac7b76ba961",
+      "original_title": "All the stories that got the Qatar paddock talking",
+      "translated_title": "",
+      "original_url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
+      "normalized_url": "https://formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
+      "source_id": "formula1_official",
+      "source_name": "Formula1.com",
+      "publication_date": "2026-11-27T05:26:11.439186+00:00",
+      "collection_date": "2026-11-27T05:26:11.439040+00:00",
+      "thumbnail_url": null,
+      "description": "F1.com's Mike Seymour looks back on the stories that got the paddock talking ahead of the 2026 Qatar Grand Prix.",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "eb43e9df8af2cdd8"
+    },
+    {
+      "id": "16f1a8d6277f677863e5",
+      "original_title": "Max Verstappen gives emphatic response to George Russell Las Vegas drama",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/news/max-verstappen-george-russell-argument-response",
+      "normalized_url": "https://planetf1.com/news/max-verstappen-george-russell-argument-response",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-27T04:35:23+00:00",
+      "collection_date": "2026-11-27T05:26:11.183509+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/26190924/max-verstappen-media-interview-qatar-2026-planetf1-120x120.jpg",
+      "description": "Max Verstappen was asked about where his and George Russell's Las Vegas tension goes from here.",
+      "original_language": "en",
+      "category": "Driver News",
+      "persian_summary": null,
+      "cluster_id": "63af2ff8dcf53604"
+    },
+    {
+      "id": "e9f3b947d8ff36a4c456",
+      "original_title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-27T00:30:04+00:00",
+      "collection_date": "2026-11-27T05:26:10.847280+00:00",
+      "thumbnail_url": "https://cdn-1.motorsport.com/images/amp/0kZX99D6/s6/toto-wolff-mercedes-a10874986-b705-2.jpg",
+      "description": "Toto Wolff has just added to his legendary resume by securing Mercedes' return to the top of Formula 1 in 2026, officially tying former McLaren boss Ron Dennis with a record 17 world championship titles across drivers' and constructors' campaigns. With that level of historical dominance, logic dictates that rival constructors and corporate conglomerates would be throwing blank cheques at the ... Keep reading",
+      "original_language": "en",
+      "category": "Team News",
+      "persian_summary": null,
+      "cluster_id": "54219b22989bac36"
+    },
     {
       "id": "5214b0bddfcb3fd51852",
       "original_title": "Bearman reflects on new Haas deal and Ferrari hopes",
@@ -8692,57 +8743,6 @@
       "category": "Driver News",
       "persian_summary": null,
       "cluster_id": "662d217ad26156b4"
-    },
-    {
-      "id": "091ab09a88c0c5638ec9",
-      "original_title": "Lewis Hamilton: Las Vegas penalty \"really harsh\" as podium chance slipped",
-      "translated_title": "",
-      "original_url": "https://www.motorsport.com/f1/news/lewis-hamilton-las-vegas-penalty-really-harsh-as-podium-chance-slipped/10876755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "normalized_url": "https://motorsport.com/f1/news/lewis-hamilton-las-vegas-penalty-really-harsh-as-podium-chance-slipped/10876755",
-      "source_id": "motorsport_en",
-      "source_name": "Motorsport.com",
-      "publication_date": "2026-11-22T07:08:20+00:00",
-      "collection_date": "2026-11-22T08:52:37.913071+00:00",
-      "thumbnail_url": "https://cdn-1.motorsport.com/images/amp/2eZxjAbY/s6/lewis-hamilton-ferrari-lando-n-a10876755-b704-2.jpg",
-      "description": "Lewis Hamilton says his 10-second penalty at the Las Vegas Grand Prix was \"really harsh\" as his chance of a podium slipped from his fingers during a chaotic race. Hamilton started 11th after both Ferraris were knocked out in Q2. He climbed quickly through the field, but was penalised for leaving the track and gaining an advantage at the Turn 7-8 chicane while battling McLaren's Lando ... Keep reading",
-      "original_language": "en",
-      "category": "FIA & Regulations",
-      "persian_summary": null,
-      "cluster_id": "451d2c4099520dd0"
-    },
-    {
-      "id": "ece505030cbbdb7e2b90",
-      "original_title": "“I thought I was doing something right”: Why power loss ended Antonelli’s win hopes | Formula 1",
-      "translated_title": "",
-      "original_url": "https://www.racefans.net/2026/11/22/i-thought-i-was-doing-something-right-why-power-loss-ended-antonellis-win-hopes/",
-      "normalized_url": "https://racefans.net/2026/11/22/i-thought-i-was-doing-something-right-why-power-loss-ended-antonellis-win-hopes",
-      "source_id": "racefans",
-      "source_name": "RaceFans",
-      "publication_date": "2026-11-22T07:06:44+00:00",
-      "collection_date": "2026-11-22T08:52:39.731164+00:00",
-      "thumbnail_url": null,
-      "description": "Andrea Kimi Antonelli explained the sudden loss of power which ended his chances of fighting for victory in the Las Vegas Grand Prix.",
-      "original_language": "en",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "ac5b3f01b94cfb57"
-    },
-    {
-      "id": "0f172c4d7c00ceb19100",
-      "original_title": "Las Vegas Grand Prix: Race team notes - Pirelli",
-      "translated_title": "",
-      "original_url": "https://www.pitpass.com/84202/Las-Vegas-Grand-Prix-Race-team-notes-Pirelli",
-      "normalized_url": "https://pitpass.com/84202/Las-Vegas-Grand-Prix-Race-team-notes-Pirelli",
-      "source_id": "pitpass",
-      "source_name": "Pitpass",
-      "publication_date": "2026-11-22T07:04:00+00:00",
-      "collection_date": "2026-11-22T17:03:56.542888+00:00",
-      "thumbnail_url": null,
-      "description": "We witnessed a very interesting race, with plenty of overtaking and a high level of competition.",
-      "original_language": "en",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "8256fd454dbac19d"
     }
   ]
 }
