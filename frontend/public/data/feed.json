@@ -1,5 +1,5 @@
 {
-  "last_global_update": "2026-11-27T23:45:00.947715+00:00",
+  "last_global_update": "2026-11-28T05:00:12.824026+00:00",
   "total_articles": 500,
   "sources": [
     {
@@ -12,10 +12,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
-      "articles_count": 4
+      "articles_count": 3
     },
     {
       "source_id": "formulapassion",
@@ -27,10 +27,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
-      "articles_count": 67
+      "articles_count": 68
     },
     {
       "source_id": "skysport_f1_it",
@@ -42,8 +42,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "XML News Sitemap",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 52
     },
@@ -57,8 +57,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 33
     },
@@ -72,10 +72,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
-      "articles_count": 65
+      "articles_count": 66
     },
     {
       "source_id": "planetf1",
@@ -87,10 +87,10 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
-      "articles_count": 95
+      "articles_count": 96
     },
     {
       "source_id": "autoracer",
@@ -100,12 +100,12 @@
       "logo_text": "AR",
       "accent_color": "#ef4444",
       "enabled": true,
-      "status": "Online",
-      "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "status": "Error",
+      "active_method": "Unavailable",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": null,
       "last_error": null,
-      "articles_count": 22
+      "articles_count": 21
     },
     {
       "source_id": "f1technical",
@@ -117,7 +117,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -132,8 +132,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 55
     },
@@ -147,8 +147,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 21
     },
@@ -162,8 +162,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 2
     },
@@ -177,7 +177,7 @@
       "enabled": true,
       "status": "Error",
       "active_method": "Unavailable",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
       "last_success": null,
       "last_error": null,
       "articles_count": 0
@@ -192,8 +192,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 28
     },
@@ -205,12 +205,12 @@
       "logo_text": "RF",
       "accent_color": "#6366f1",
       "enabled": true,
-      "status": "Online",
-      "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "status": "Error",
+      "active_method": "Unavailable",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": null,
       "last_error": null,
-      "articles_count": 19
+      "articles_count": 18
     },
     {
       "source_id": "pitpass",
@@ -222,8 +222,8 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 37
     },
@@ -237,13 +237,47 @@
       "enabled": true,
       "status": "Online",
       "active_method": "RSS/Atom Feed",
-      "last_checked": "2026-11-27T23:45:00.947715+00:00",
-      "last_success": "2026-11-27T23:45:00.947715+00:00",
+      "last_checked": "2026-11-28T05:00:12.824026+00:00",
+      "last_success": "2026-11-28T05:00:12.824026+00:00",
       "last_error": null,
       "articles_count": 0
     }
   ],
   "articles": [
+    {
+      "id": "e9e5c9c4fbc6aa0e4587",
+      "original_title": "Mercedes chief threat emerges in telemetry data; Ferrari Qatar GP blow",
+      "translated_title": "",
+      "original_url": "https://www.planetf1.com/f1-data/mercedes-red-bull-ferrari-friday-data-f1-2026-qatar-grand-prix",
+      "normalized_url": "https://planetf1.com/f1-data/mercedes-red-bull-ferrari-friday-data-f1-2026-qatar-grand-prix",
+      "source_id": "planetf1",
+      "source_name": "PlanetF1",
+      "publication_date": "2026-11-28T04:00:12+00:00",
+      "collection_date": "2026-11-28T05:00:11.639360+00:00",
+      "thumbnail_url": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/11/27204420/kimi-antonelli-mercedes-qatar-gp-2026-planetf1-120x120.jpg",
+      "description": "Mercedes will take some stopping in Qatar, but the team most likely to do it is becoming clearer...",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "cac0c2185dff7c14"
+    },
+    {
+      "id": "5f73d0af785e90efbf77",
+      "original_title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
+      "translated_title": "",
+      "original_url": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "normalized_url": "https://motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290",
+      "source_id": "motorsport_en",
+      "source_name": "Motorsport.com",
+      "publication_date": "2026-11-28T02:38:16+00:00",
+      "collection_date": "2026-11-28T05:00:11.349491+00:00",
+      "thumbnail_url": "https://cdn-1.motorsport.com/images/amp/24QGyyPY/s6/george-russell-mercedes-a10878290-b705-2.jpg",
+      "description": "Toto Wolff has spent the past week sounding remarkably unfazed by Formula 1’s fiercest driver feud. George Russell, however, just hinted that Mercedes’ team principal sounds rather different once the microphones are switched off. Speaking exclusively to Martin Brundle for Sky Sports F1 - in an interview previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - ... Keep reading",
+      "original_language": "en",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "63af2ff8dcf53604"
+    },
     {
       "id": "4f6a9d9377f432f05b73",
       "original_title": "Formula 1, GP Qatar: Antonelli il più veloce nelle FP2 davanti a Russell e Norris",
@@ -2793,6 +2827,23 @@
       "category": "Race Weekend",
       "persian_summary": null,
       "cluster_id": "5502fdddf911135d"
+    },
+    {
+      "id": "bd0101063d0c209a1eb5",
+      "original_title": "GP Qatar 2026: orari Sky/Now e TV8",
+      "translated_title": "",
+      "original_url": "https://www.formulapassion.it/f1/f1-orari/orari-tv-gp-qatar-2026-lusail-televisione-programmazione-diretta-sky-differita-tv8-dove-vederla-ferrari-leclerc-hamilton-antonelli",
+      "normalized_url": "https://formulapassion.it/f1/f1-orari/orari-tv-gp-qatar-2026-lusail-televisione-programmazione-diretta-sky-differita-tv8-dove-vederla-ferrari-leclerc-hamilton-antonelli",
+      "source_id": "formulapassion",
+      "source_name": "FormulaPassion",
+      "publication_date": "2026-11-27T07:00:00+00:00",
+      "collection_date": "2026-11-28T05:00:11.429123+00:00",
+      "thumbnail_url": null,
+      "description": "I dettagli della programmazione televisiva dell'appuntamento in programma a Lusail",
+      "original_language": "it",
+      "category": "Race Weekend",
+      "persian_summary": null,
+      "cluster_id": "9c0cd458814cdb1b"
     },
     {
       "id": "f579553238201dba8fc9",
@@ -8692,57 +8743,6 @@
       "category": "Transfers & Rumors",
       "persian_summary": null,
       "cluster_id": "c10574fb43e1584c"
-    },
-    {
-      "id": "377e2cfd3d9350a4a7ef",
-      "original_title": "Russell offered to co-operate with Verstappen during Las Vegas Grand Prix | Formula 1",
-      "translated_title": "",
-      "original_url": "https://www.racefans.net/2026/11/23/russell-offered-to-co-operate-with-verstappen-during-las-vegas-grand-prix/",
-      "normalized_url": "https://racefans.net/2026/11/23/russell-offered-to-co-operate-with-verstappen-during-las-vegas-grand-prix",
-      "source_id": "racefans",
-      "source_name": "RaceFans",
-      "publication_date": "2026-11-23T10:47:20+00:00",
-      "collection_date": "2026-11-23T12:16:53.664937+00:00",
-      "thumbnail_url": null,
-      "description": "George Russell made an unlikely offer to co-operate with rival Max Verstappen during the Las Vegas Grand Prix.",
-      "original_language": "en",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "8256fd454dbac19d"
-    },
-    {
-      "id": "4dbfc5749799c05671d8",
-      "original_title": "Doppio podio McLaren in rimonta: “Scelte giuste al momento giusto, ma tutto dipendeva dalla batteria”",
-      "translated_title": "",
-      "original_url": "https://autoracer.it/gp-las-vegas-2026-mclaren-norris-piastri-podio-dichiarazioni/",
-      "normalized_url": "https://autoracer.it/gp-las-vegas-2026-mclaren-norris-piastri-podio-dichiarazioni",
-      "source_id": "autoracer",
-      "source_name": "AutoRacer.it",
-      "publication_date": "2026-11-23T10:14:02+00:00",
-      "collection_date": "2026-11-23T12:16:52.673625+00:00",
-      "thumbnail_url": null,
-      "description": "La McLaren cancella la delusione della doppia squalifica del 2025 mandando entrambi i suoi piloti sul podio del GP Las Vegas 2026, al termine di una gara folle che ha visto le MCL40 risalire la classifica nei momenti decisivi, dopo aver battagliato a lungo nelle posizioni di rincalzo. Partito dalla terza posizione, Lando Norris è […] L'articolo Doppio podio McLaren in rimonta: “Scelte giuste al momento giusto, ma tutto dipendeva dalla batteria” proviene da AutoRacer.it .",
-      "original_language": "it",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "662fc0c6b97b4e1b"
-    },
-    {
-      "id": "1013b63f63ac0756f6fc",
-      "original_title": "F1 GP Las Vegas: Leclerc e Hamilton come i capponi di Renzo",
-      "translated_title": "",
-      "original_url": "https://www.formulatecnica.it/2026/11/f1-max-vince-caos-ferrari/?utm_source=rss&utm_medium=rss&utm_campaign=f1-max-vince-caos-ferrari",
-      "normalized_url": "https://formulatecnica.it/2026/11/f1-max-vince-caos-ferrari",
-      "source_id": "formulatecnica",
-      "source_name": "FormulaTecnica",
-      "publication_date": "2026-11-23T10:10:00+00:00",
-      "collection_date": "2026-11-23T12:16:52.978438+00:00",
-      "thumbnail_url": "https://www.formulatecnica.it/wp-content/uploads/2026/11/Capponi-Ferrari-1024x601.jpg",
-      "description": "Il Gran Premio di Las Vegas di Formula 1 va in archivio lasciando sul tavolo verde l’ennesima prova di forza […] <p>The post F1 GP Las Vegas: Leclerc e Hamilton come i capponi di Renzo first appeared on F1 | FormulaTecnica: analisi, news e approfondimenti .</p>",
-      "original_language": "it",
-      "category": "Race Weekend",
-      "persian_summary": null,
-      "cluster_id": "a1fa3029e3f9d69f"
     }
   ]
 }
